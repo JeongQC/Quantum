@@ -1,14 +1,10 @@
 # Embedding-Aware Noise Modeling of Quantum Annealing
 
+**Seon-Geun Jeong<sup>1</sup>, Mai Dinh Cong<sup>1</sup>, Dae-Il Noh<sup>2</sup>, Quoc-Viet Pham<sup>3</sup> and Won-Joo Hwang<sup>1,4,*</sup>**
 
-Seon-Geun Jeong$$^1$$, Mai Dinh Cong$^1, Dae-Il Noh$^2$, Quoc-Viet Pham$^3$ and Won-Joo Hwang$^{1,4,*}
+<sup>1</sup> Department of Information Convergence Engineering, Pusan National University, Busan, Republic of Korea  
+<sup>2</sup> Quantum AI Lab, Korea Quantum Computing Co., Ltd, Busan, Republic of Korea  
+<sup>3</sup> School of Computer Science and Statistics, Trinity College Dublin, Dublin, Ireland  
+<sup>4</sup> School of Computer Science and Engineering, Pusan National University, Busan, Republic of Korea  
 
-{$^1$Department of Information Convergence Engineering, Pusan National University, Busan, Republic of Korea}
-
-{$^2$Quantum AI Lab, Korea Quantum Computing Co., Ltd, Busan, Republic of Korea}
-
-{$^3$School of Computer Science and Statistics, Trinity College Dublin, Dublin, Ireland}
-
-{$^4$School of Computer Science and Engineering, Pusan National University, Busan, Republic of Korea}
-
-keywords: Quantum Annealing, embedding, chain, chain strength, integrated control error model
+**Keywords:** Quantum Annealing, embedding, chain, chain strength, integrated control error model
