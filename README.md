@@ -1,7 +1,7 @@
 # Embedding-Aware Noise Modeling of Quantum Annealing
 
 
-{Seon-Geun Jeong$^1$, Mai Dinh Cong$^1, Dae-Il Noh$^2$, Quoc-Viet Pham$^3$ and Won-Joo Hwang$^{1,4,*}}
+Seon-Geun Jeong$$^1$$, Mai Dinh Cong$^1, Dae-Il Noh$^2$, Quoc-Viet Pham$^3$ and Won-Joo Hwang$^{1,4,*}
 
 {$^1$Department of Information Convergence Engineering, Pusan National University, Busan, Republic of Korea}
 
